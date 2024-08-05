@@ -1,7 +1,7 @@
 const page = () => {
   return (
     <div>
-      <h1>Hello this is Homepage</h1>
+      <h1>Hello this is Homepage and i am setting up routes</h1>
     </div>
   )
 }
