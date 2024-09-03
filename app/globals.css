@@ -2,3 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
+.navbar .active{
+    color: red;
+}
+h1{
+    font-size: 40px;
+    line-height: 48px;
+}
+h2{
+    font-size: 36px;
+    line-height: 44px;
+}
+h3{
+    font-size: 32px;
+    line-height: 40px;
+}
+h4{
+    font-size: 26px;
+    line-height: 34px;
+}
+p{
+    font-size: 18px;
+    line-height: 26px; 
+}
