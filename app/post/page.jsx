@@ -16,7 +16,7 @@ const Posts = async () => {
 
   return (
     <div>
-      <h1>Users</h1>
+      <h1>Users S</h1>
 
       {users.map((user, index) => (
         <p key={index}>{user.name}</p>
