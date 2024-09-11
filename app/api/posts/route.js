@@ -1,5 +1,4 @@
 // http://localhost:3000/api/posts 
-
 import prisma from "@/app/libs/primsadb"
 import { NextResponse } from "next/server"
 
@@ -35,3 +34,4 @@ export const GET = async ()=>{
         return NextResponse.json({message: "Get Error", err}, {status:500})
     }
 }
+
